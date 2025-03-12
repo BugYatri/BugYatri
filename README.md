@@ -1,6 +1,6 @@
 # BUGyatri
 
-![BUGyatri Logo](https://your-logo-url.com/logo.png)
+![BUGyatri Logo](https://github.com/BugYatri/BugYatri/blob/main/Logo.png)
 
 ## 🚀 Introduction
 BUGyatri is a next-generation decentralized bug bounty platform focused on Web2 and Web3 security. Our mission is to bridge the gap between ethical hackers and organizations by providing a transparent, efficient, and rewarding environment for vulnerability disclosure.
@@ -30,7 +30,7 @@ BUGyatri is a next-generation decentralized bug bounty platform focused on Web2 
 ## 💰 Reward Tiers
 | Severity  | Reward Range (in USD & Crypto) |
 |-----------|--------------------------------|
-| Critical  | $10,000+                       |
+| Critical  | $50,000+                       |
 | High      | $5,000 - $10,000               |
 | Medium    | $1,000 - $5,000                |
 | Low       | Up to $1,000                   |
@@ -51,8 +51,8 @@ BUGyatri is a next-generation decentralized bug bounty platform focused on Web2 
 ## 📢 Join Us
 We’re looking for hackers, security researchers, and organizations to collaborate!
 - Website: [bugyatri.com](https://bugyatri.com)
-- Twitter: [@BUGyatri](https://twitter.com/BUGyatri)
-- Discord: [Join Community](https://discord.gg/your-invite-link)
+- Twitter: [@BUGyatri](https://twitter.com/Bugyatrri)
+- Discord: [Join Community](https://discord.gg/kuZhsbvAPQ)
 
 ## 🤝 Contributing
 Want to contribute? Fork the repo, create a branch, and submit a PR. Check out our [Contributing Guidelines](CONTRIBUTING.md)!

@@ -28,7 +28,7 @@ BUGyatri is a next-generation decentralized bug bounty platform focused on Web2 
 - Critical Infrastructure Attacks
 
 ## 💰 Reward Tiers
-| Severity  | Reward Range (in USD & Crypto) |
+| Severity  | Reward Range (in USD )         |
 |-----------|--------------------------------|
 | Critical  | $50,000+                       |
 | High      | $5,000 - $10,000               |
@@ -38,7 +38,7 @@ BUGyatri is a next-generation decentralized bug bounty platform focused on Web2 
 ## 🛠️ Tech Stack
 - **Frontend**: React, Next.js, TailwindCSS
 - **Backend**: Node.js, NestJS, PostgreSQL
-- **Smart Contracts**: Solidity, Hardhat, Ethereum & EVM-Compatible Chains
+- **Smart Contracts**: Solidity, Rust,golang, Move ,Hardhat, Ethereum & EVM-Compatible Chains
 - **AI Integration**: GPT-based classification models
 - **Infrastructure**: AWS, IPFS, Docker
 

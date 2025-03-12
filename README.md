@@ -1,6 +1,6 @@
 # BUGyatri
 
-![BUGyatri Logo](https://github.com/BugYatri/BugYatri/blob/main/Logo.png)
+![BUGyatri Logo](https://github.com/BugYatri/BugYatri/blob/main/Cover.png)
 
 ## 🚀 Introduction
 BUGyatri is a next-generation decentralized bug bounty platform focused on Web2 and Web3 security. Our mission is to bridge the gap between ethical hackers and organizations by providing a transparent, efficient, and rewarding environment for vulnerability disclosure.
